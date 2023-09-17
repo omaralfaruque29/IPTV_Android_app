@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.google.android.exoplayer.demo.StreamingPlayer"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <SurfaceView
+        android:id="@+id/surface"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="wrap_content"
+
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical"
+        android:id="@+id/customChannleList"
+        android:background="#80000000">
+    </android.support.v7.widget.RecyclerView>
+
+</FrameLayout>

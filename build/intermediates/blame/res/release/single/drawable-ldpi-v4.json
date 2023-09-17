@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/drawable-ldpi-v4/custom_bg.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/drawable-ldpi/custom_bg.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_play_arrow.png",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/drawable-ldpi/ic_play_arrow.png"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

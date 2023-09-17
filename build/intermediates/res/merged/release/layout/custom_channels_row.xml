@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:clickable="true">
+
+    <ImageView
+        android:padding="8dp"
+        android:layout_width = "80dp"
+        android:layout_height= "50dp"
+        android:scaleType="center"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/customImageForCustomChannelList"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/customRowtitleForCustomChannelList"
+        android:padding="8dp"
+        android:layout_marginLeft="6dp"
+        android:text="dummy"
+        android:layout_gravity="center_vertical"
+        android:textColor="#006400"
+
+        />
+</LinearLayout>
+    <!--android:textColor="#61C9CD"-->

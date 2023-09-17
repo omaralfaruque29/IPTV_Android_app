@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/debug/raw/lb_voice_no_input.ogg",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/raw/lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/debug/raw/lb_voice_success.ogg",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/raw/lb_voice_success.ogg"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/debug/raw/lb_voice_failure.ogg",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/raw/lb_voice_failure.ogg"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/debug/raw/lb_voice_open.ogg",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/raw/lb_voice_open.ogg"
+    }
+]

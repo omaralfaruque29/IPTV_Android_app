@@ -1,0 +1,38 @@
+<resources>
+    <string-array name="bitRateArray">
+        <item>Auto</item>
+        <item>720p</item>
+        <item>480p</item>
+        <item>360p</item>
+        <item>180p</item>
+    </string-array>
+
+    <string-array name="bitRateValues">
+        <item>Auto</item>
+        <item>720p</item>
+        <item>480p</item>
+        <item>360p</item>
+        <item>180p</item>
+    </string-array>
+
+    <string-array name="playerArray">
+        <item>Native</item>
+        <item>Exo</item>
+    </string-array>
+
+    <string-array name="playerValues">
+        <item>Native</item>
+        <item>Exo</item>
+    </string-array>
+
+    <string-array name="userSettingArray">
+        <item>IPTV</item>
+        <item>RINGID</item>
+    </string-array>
+
+    <string-array name="userSettingValue">
+        <item>IPTV</item>
+        <item>RINGID</item>
+    </string-array>
+
+</resources>

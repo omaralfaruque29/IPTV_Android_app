@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListPreference
+        android:title="User settings"
+        android:summary="Change user settings"
+        android:defaultValue="IPTV"
+        android:entries="@array/userSettingArray"
+        android:entryValues="@array/userSettingValue"/>
+
+    <ListPreference
+        android:key="bitRatePref"
+        android:title="Change bit rate"
+        android:defaultValue="720p"
+        android:entries="@array/bitRateArray"
+        android:entryValues="@array/bitRateValues" />
+
+    <ListPreference
+        android:key="playerPref"
+        android:title="Change player"
+        android:defaultValue="Native"
+        android:entries="@array/playerArray"
+        android:entryValues="@array/playerValues" />
+
+</PreferenceScreen>

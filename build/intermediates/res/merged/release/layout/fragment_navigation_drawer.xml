@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.test.iptv.materialdesignone.NavigationDrawerFrag"
+
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:id="@+id/favButton"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Favorite" />
+
+    <Spinner
+        android:id="@+id/selectionType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"
+        android:focusable="false"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/drawerRecyclerList">
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

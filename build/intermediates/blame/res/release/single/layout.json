@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_guidedbuttonactions.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/app_bar.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/app_bar.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_header.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_header.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_error_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_error_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/secondtabcontent.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/secondtabcontent.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_control_button_primary.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_image_card_view_themed_badge_left.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_speech_orb.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_guidedactions_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_details_description.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_details_description.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_onboarding_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_picker_separator.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_picker_separator.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_picker_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_picker_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_search_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_search_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_image_card_view.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_image_card_view.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_row_container.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_row_container.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/mediaplayer_2.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/mediaplayer_2.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_headers_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_headers_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_browse_title.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_browse_title.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_picker_column.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_picker_column.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_details_overview.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_details_overview.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_image_card_view_themed_title.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/player_activity.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/player_activity.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_title_view.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_title_view.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/fragment_navigation_drawer.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/sample_chooser_inline_header.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/sample_chooser_inline_header.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_guidedactions_datepicker_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_shadow.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_shadow.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_playback_controls.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_playback_controls.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_control_button_secondary.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_guidedstep_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_action_2_lines.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_action_2_lines.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/sample_chooser_activity.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/sample_chooser_activity.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_playback_controls_row.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_list_row.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_list_row.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/firsttabcontent.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/firsttabcontent.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_vertical_grid_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_vertical_grid.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_vertical_grid.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_list_row_hovercard.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_browse_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_browse_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_search_orb.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_search_orb.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_rows_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_rows_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/grid_single.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/grid_single.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_image_card_view_themed_content.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_action_1_line.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_action_1_line.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_image_card_view_themed_badge_right.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_background_window.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_background_window.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_details_fragment.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_details_fragment.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/custom_row.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/custom_row.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_fullwidth_details_overview_logo.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_row_header.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_row_header.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_fullwidth_details_overview.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_search_bar.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_search_bar.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_picker.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_picker.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_guidance.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_guidance.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_control_bar.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_control_bar.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_guidedstep_background.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/lb_guidedactions.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/layout/lb_guidedactions.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/custom_channels_row.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/src/main/res/layout/custom_channels_row.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    }
+]

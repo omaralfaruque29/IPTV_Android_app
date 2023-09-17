@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/debug/transition-v19/lb_browse_headers_out.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/transition-v19/lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/debug/transition-v19/lb_browse_headers_in.xml",
+        "source": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/transition-v19/lb_browse_headers_in.xml"
+    }
+]

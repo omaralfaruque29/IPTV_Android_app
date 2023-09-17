@@ -1,0 +1,1052 @@
+[
+    {
+        "outputFile": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/res/merged/debug/values-ru/values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 114,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 114,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 107,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 107,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 122,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 122,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 101,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 101,
+                        "endOffset": 498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 111,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 111,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 85,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 85,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 104,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 104,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 119,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 119,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 78,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 78,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 77,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 77,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 79,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 79,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 105,
+                    "endOffset": 1314
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 105,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1319,
+                    "endColumn": 107,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 107,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 97,
+                    "endOffset": 1520
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 97,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1525,
+                    "endColumn": 108,
+                    "endOffset": 1629
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 108,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1634,
+                    "endColumn": 105,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 105,
+                        "endOffset": 1685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1740,
+                    "endColumn": 107,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1690,
+                        "endColumn": 107,
+                        "endOffset": 1793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 135,
+                    "endOffset": 1979
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1798,
+                        "endColumn": 135,
+                        "endOffset": 1929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1984,
+                    "endColumn": 99,
+                    "endOffset": 2079
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 99,
+                        "endOffset": 2029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2084,
+                    "endColumn": 106,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 106,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 100,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 100,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endColumn": 77,
+                    "endOffset": 2365
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 77,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2370,
+                    "endColumn": 94,
+                    "endOffset": 2460
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 94,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2465,
+                    "endColumn": 93,
+                    "endOffset": 2554
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 93,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2559,
+                    "endColumn": 96,
+                    "endOffset": 2651
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 96,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2656,
+                    "endColumn": 90,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 90,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2747,
+                    "endColumn": 124,
+                    "endOffset": 2867
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 124,
+                        "endOffset": 888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2872,
+                    "endColumn": 122,
+                    "endOffset": 2990
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endColumn": 122,
+                        "endOffset": 1011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2995,
+                    "endColumn": 109,
+                    "endOffset": 3100
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1016,
+                        "endColumn": 109,
+                        "endOffset": 1121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3105,
+                    "endColumn": 126,
+                    "endOffset": 3227
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endColumn": 126,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3232,
+                    "endColumn": 127,
+                    "endOffset": 3355
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endColumn": 127,
+                        "endOffset": 1376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3360,
+                    "endColumn": 124,
+                    "endOffset": 3480
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 124,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3485,
+                    "endColumn": 108,
+                    "endOffset": 3589
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 108,
+                        "endOffset": 1610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3594,
+                    "endColumn": 99,
+                    "endOffset": 3689
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1615,
+                        "endColumn": 99,
+                        "endOffset": 1710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3694,
+                    "endColumn": 97,
+                    "endOffset": 3787
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 97,
+                        "endOffset": 1808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3792,
+                    "endColumn": 104,
+                    "endOffset": 3892
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1813,
+                        "endColumn": 104,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3897,
+                    "endColumn": 102,
+                    "endOffset": 3995
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1918,
+                        "endColumn": 102,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4000,
+                    "endColumn": 113,
+                    "endOffset": 4109
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 113,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4114,
+                    "endColumn": 103,
+                    "endOffset": 4213
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2135,
+                        "endColumn": 103,
+                        "endOffset": 2234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4218,
+                    "endColumn": 119,
+                    "endOffset": 4333
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2239,
+                        "endColumn": 119,
+                        "endOffset": 2354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4338,
+                    "endColumn": 119,
+                    "endOffset": 4453
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2359,
+                        "endColumn": 119,
+                        "endOffset": 2474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4458,
+                    "endColumn": 117,
+                    "endOffset": 4571
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2479,
+                        "endColumn": 117,
+                        "endOffset": 2592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4576,
+                    "endColumn": 119,
+                    "endOffset": 4691
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2597,
+                        "endColumn": 119,
+                        "endOffset": 2712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4696,
+                    "endColumn": 124,
+                    "endOffset": 4816
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2717,
+                        "endColumn": 124,
+                        "endOffset": 2837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4821,
+                    "endColumn": 117,
+                    "endOffset": 4934
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2842,
+                        "endColumn": 117,
+                        "endOffset": 2955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4939,
+                    "endColumn": 128,
+                    "endOffset": 5063
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2960,
+                        "endColumn": 128,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5068,
+                    "endColumn": 112,
+                    "endOffset": 5176
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3089,
+                        "endColumn": 112,
+                        "endOffset": 3197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5181,
+                    "endColumn": 123,
+                    "endOffset": 5300
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3202,
+                        "endColumn": 123,
+                        "endOffset": 3321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5305,
+                    "endColumn": 82,
+                    "endOffset": 5383
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3326,
+                        "endColumn": 82,
+                        "endOffset": 3404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5388,
+                    "endColumn": 102,
+                    "endOffset": 5486
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3409,
+                        "endColumn": 102,
+                        "endOffset": 3507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5491,
+                    "endColumn": 140,
+                    "endOffset": 5627
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3512,
+                        "endColumn": 140,
+                        "endOffset": 3648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5632,
+                    "endColumn": 165,
+                    "endOffset": 5793
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3653,
+                        "endColumn": 165,
+                        "endOffset": 3814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5798,
+                    "endColumn": 77,
+                    "endOffset": 5871
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3819,
+                        "endColumn": 77,
+                        "endOffset": 3892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5876,
+                    "endColumn": 81,
+                    "endOffset": 5953
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3897,
+                        "endColumn": 81,
+                        "endOffset": 3974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5958,
+                    "endColumn": 100,
+                    "endOffset": 6054
+                },
+                "from": {
+                    "file": "/home/raj/Desktop/IPTVapp_jellybean/IPTVapp_jellybean/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ru/values-ru.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 100,
+                        "endOffset": 2130
+                    }
+                }
+            }
+        ]
+    }
+]

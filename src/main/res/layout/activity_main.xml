@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawerLayout"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:id="@+id/listView_Drawer"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:background="@color/lb_basic_card_info_bg_color"
+        android:layout_gravity="start"
+        android:orientation="vertical">
+
+        <fragment
+            class="com.google.android.exoplayer.demo.materialdesignone.NavigationDrawerFrag"
+            android:id="@+id/drawerContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.test.iptv.materialdesignone.MainActivity"
+        android:id="@+id/main_view">
+
+        <include
+            android:id="@+id/app_bar"
+            layout="@layout/app_bar">
+        </include>
+
+        <fragment
+            android:name="com.google.android.exoplayer.demo.materialdesignone.FirstTabFrag"
+            android:id="@+id/fragment_place"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+</LinearLayout>
